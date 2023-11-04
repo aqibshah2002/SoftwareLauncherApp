@@ -1,4 +1,4 @@
-# Software Tool Launcher app (Windows)
+# Software Tool Launcher (Windows)
 
 ## Description
 Aim of this software is to provide software developers a central space to launch software tools. This was designed with 
