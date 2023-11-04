@@ -6,7 +6,8 @@ the hope of improving the workflow of the software developer. Built using Flet.
 
 ## Application
 
-![image](https://github.com/aqibshah2002/swlauncher/assets/92151685/9ab8d402-8175-4dcb-b263-adfe2d0205c5)
+![image](https://github.com/aqibshah2002/SoftwareLauncherApp/assets/92151685/8d439221-a14a-43ca-a11d-638ece6aeaa0)
+
 
 ## Download Instructions
 Download the zip file shared in the latest release
